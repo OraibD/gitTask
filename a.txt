@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    
+  </head>
+  <body>
+    
+    <p>Hello World!</p>
+<<<<<<< HEAD
+   <p>Hello again !</p>
+=======
+<p>Hellooooooooooo!</p>
+
+>>>>>>> updateLeft
+  </body>
+</html>
